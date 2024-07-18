@@ -1,9 +1,9 @@
 {
-    "date": "2024/07/06",
-    "dateAsString": "Saturday 6th July at 10pm (yes that's right, new starting time!)",
+    "date": "2024/08/03",
+    "dateAsString": "Saturday 3rd August at 9pm",
     "fb_link": "https://www.facebook.com/Karaokalypse",
     "special_link": "",
-    "special": false,
+    "special": true,
     "battlevox": false,
     "renewSslNextMonth": "aug724"
 }
