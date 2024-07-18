@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/karaosite_public/static/css/main.d5871b4d.css",
-    "main.js": "/karaosite_public/static/js/main.c1594a88.js",
+    "main.js": "/karaosite_public/static/js/main.16113140.js",
     "static/js/787.8eab4c27.chunk.js": "/karaosite_public/static/js/787.8eab4c27.chunk.js",
     "static/media/bg_pattern.png": "/karaosite_public/static/media/bg_pattern.238c6ee4d2720616ef71.png",
     "static/media/josefinsans.ttf": "/karaosite_public/static/media/josefinsans.613585db06f849ca7717.ttf",
@@ -9,11 +9,11 @@
     "static/media/curse.woff2": "/karaosite_public/static/media/curse.46dd872186fcd1d7a9a7.woff2",
     "index.html": "/karaosite_public/index.html",
     "main.d5871b4d.css.map": "/karaosite_public/static/css/main.d5871b4d.css.map",
-    "main.c1594a88.js.map": "/karaosite_public/static/js/main.c1594a88.js.map",
+    "main.16113140.js.map": "/karaosite_public/static/js/main.16113140.js.map",
     "787.8eab4c27.chunk.js.map": "/karaosite_public/static/js/787.8eab4c27.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5871b4d.css",
-    "static/js/main.c1594a88.js"
+    "static/js/main.16113140.js"
   ]
 }
