@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/karaosite_public/static/css/main.a324b0d6.css",
-    "main.js": "/karaosite_public/static/js/main.61e77db7.js",
+    "main.css": "/karaosite_public/static/css/main.d5871b4d.css",
+    "main.js": "/karaosite_public/static/js/main.c1594a88.js",
     "static/js/787.8eab4c27.chunk.js": "/karaosite_public/static/js/787.8eab4c27.chunk.js",
     "static/media/bg_pattern.png": "/karaosite_public/static/media/bg_pattern.238c6ee4d2720616ef71.png",
     "static/media/josefinsans.ttf": "/karaosite_public/static/media/josefinsans.613585db06f849ca7717.ttf",
     "static/media/chomsky.woff2": "/karaosite_public/static/media/chomsky.1c52c6d05b7a6ccb07da.woff2",
     "static/media/curse.woff2": "/karaosite_public/static/media/curse.46dd872186fcd1d7a9a7.woff2",
     "index.html": "/karaosite_public/index.html",
-    "main.a324b0d6.css.map": "/karaosite_public/static/css/main.a324b0d6.css.map",
-    "main.61e77db7.js.map": "/karaosite_public/static/js/main.61e77db7.js.map",
+    "main.d5871b4d.css.map": "/karaosite_public/static/css/main.d5871b4d.css.map",
+    "main.c1594a88.js.map": "/karaosite_public/static/js/main.c1594a88.js.map",
     "787.8eab4c27.chunk.js.map": "/karaosite_public/static/js/787.8eab4c27.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a324b0d6.css",
-    "static/js/main.61e77db7.js"
+    "static/css/main.d5871b4d.css",
+    "static/js/main.c1594a88.js"
   ]
 }
